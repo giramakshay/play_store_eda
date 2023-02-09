@@ -27,3 +27,14 @@ We add a column for a custom performance metric, which measures performance by c
 ## Charting:
 
 We plot various graphs to find relationships between variables and identify top performing categories.
+
+## Conclusion:
+
+The EDA performed above reveals top categories by various metrics among which the top categories by our custom performance metric are:
+
+Game
+Social
+Medical
+Weather
+Family
+The focus should be on developing apps in these top categories for maximum reach and number of installs. Also, in order to get high number of installs, developers should focus on getting more number of positive reviews with positive rating. The price of the app should be kept as low as possible, and preferrably the app should be free.
