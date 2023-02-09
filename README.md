@@ -27,6 +27,7 @@ We add a column for a custom performance metric, which measures performance by c
 ## Charting:
 
 We plot various graphs to find relationships between variables and identify top performing categories.
+The charts can be found in the [ipython notebook](https://github.com/giramakshay/play_store_eda/blob/d29dfac8fd236a61b7909109e719c076b2d4bf1c/Play_Store_Data_EDA.ipynb).
 
 ## Conclusion:
 
